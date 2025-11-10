@@ -63,11 +63,25 @@
 
 ---
 
-## 🎯 GitHub Metrics
+## 📊 Contribution Activity
 
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/rusiaaman?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&stars=1&habits=1&followup=1&lines=1&config.timezone=Asia%2FKolkata&config.animated=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rusiaaman&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rusiaaman&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rusiaaman&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rusiaaman&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rusiaaman&theme=tokyonight)
 
 </div>
 
