@@ -2,9 +2,19 @@
 
 # 👋 Hey, I'm Aman Rusia
 
-### 🧠 NLP & Deep Learning Enthusiast | 📍 Bengaluru
+### 🧠 NLP & Deep Learning Engineer | 🚀 Building AI-Powered Development Tools
 
-<br/>
+</div>
+
+## 💫 About Me
+
+I'm a software engineer from India, currently based in Pune, where I'm building a coding frontend agent at **[Kombai](https://kombai.com)**. My work sits at the intersection of AI and software development, focusing on creating intelligent assistants that augment human creativity.
+
+Beyond code, I'm deeply fascinated by the foundational questions that shape our existence—**basic sciences**, **rationalistic philosophy**, and **existential inquiries**. I'm driven by ideas that explore the long-term trajectory of humanity and anything that touches the core of what it means to be human.
+
+When I'm not building or contemplating, you'll find me exploring **NLP**, **deep learning**, and the emerging landscape of AI agents.
+
+<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rusiaaman&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/rusiaaman)
 
