@@ -22,27 +22,6 @@ When I'm not building or contemplating, you'll find me exploring **NLP**, **deep
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rusiaaman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusiaaman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rusiaaman&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -58,16 +37,6 @@ When I'm not building or contemplating, you'll find me exploring **NLP**, **deep
 <div align="center">
 
 [![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rusiaaman&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rusiaaman&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=86400)
 
 </div>
 
