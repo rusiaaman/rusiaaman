@@ -22,16 +22,6 @@ When I'm not building or contemplating, you'll find me exploring **NLP**, **deep
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rusiaaman&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
